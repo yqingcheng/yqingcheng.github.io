@@ -1,0 +1,101 @@
+- class_name: 友情链接
+  class_desc: 一些大佬的技术博客
+  link_list:
+    - name: Hexo
+      link: https://hexo.io/zh-tw/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 快速、简单且强大的网志框架
+    - name: DreamCollector
+      link: https://blog.pzai.cloud/
+      avatar: https://s1.ax1x.com/2023/06/19/pC3YkfU.png
+      descr: 一些技术相关的文章
+    - name: 阮一峰的网络日志
+      link: https://www.ruanyifeng.com/blog/
+      avatar: https://wangbase.com/blogimg/asset/202107/bg2021072117.png
+      descr: 这里记录每周值得分享的科技内容，周五发布。
+    - name: 百里飞洋
+      link: https://blog.meta-code.top/
+      avatar: https://plugin.tianqistatic.com/static/images/tianqibig/b1.png
+      descr: 这里是百里飞洋(BarryFlynn)的个人博客网站主页,这里有学习的笔记,有生活的乐趣
+
+
+- class_name: 学习资源
+  class_desc: 记录了一些学习路线、资源等网站
+  link_list:
+    - name: HackWay技术学习路线
+      link: https://hackway.org/
+      avatar: https://s1.ax1x.com/2023/06/19/pC3d3yF.png
+      descr: HackWay为程序员自学计算机专业、编程语言提供循序渐进的学习路线、资源以及交流社区
+    - name: Go 语言中国
+      link: https://gopl-zh.github.io/
+      avatar: https://golang-china.github.io/logo.png
+      descr: Go语言圣经(中文版)
+    - name: Docker&Kubernetes小记
+      link: https://www.bilibili.com/read/cv21266100
+      avatar: https://s1.ax1x.com/2023/06/19/pC3d4l8.png
+      descr: 对 Docker、Docker Compose、Kubernetes 这些技术有一个基本的了解 
+    - name: CS-Note
+      link: http://www.cyc2018.xyz/
+      avatar: https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/githubio/LogoMakr_0zpEzN.png
+      descr: 算法、计算机基础、数据库、Java、系统设计、面向对象和编码实践等
+    - name: JavaGuide
+      link: https://javaguide.cn/
+      avatar: https://javaguide.cn/logo.png
+      descr: 「Java学习 + 面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide!
+    - name: 沉默王二技术博客
+      link: https://tobebetterjavaer.com/
+      avatar: https://cdn.tobebetterjavaer.com/tobebetterjavaer/images/logo-02.png
+      descr: 沉默王二BB:这是一份通俗易懂、风趣幽默的Java学习指南,内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java,就认准二哥的Java进阶之路
+
+- class_name: 英语学习
+  class_desc: 记录英语学习的相关网站,提高英语能力
+  link_list:
+    - name: 在线英语听力室
+      link: http://www.tingroom.com/
+      avatar: http://img.yywz123.com/tingroom/templets/images/top-logo.gif
+      descr: 英语听力,免费英语,在线英语,英语学习,英语口语,voa,英语听力下载,英语四级,英语六级,在线学英语,英语辅导,少儿英语,英语单词,新概念英语,英语学习网站,英语自学
+    - name: DeepL 翻译
+      link: https://www.deepl.com/translator
+      avatar: https://static.deepl.com/img/logo/DeepL_Logo_darkBlue_v2.svg
+      descr: DeepL翻译:全世界最准确的翻译
+
+- class_name: 网站
+  class_desc: 值得推荐的网站
+  link_list:
+    - name: Youtube
+      link: https://www.youtube.com/
+      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
+      descr: 视频网站
+    - name: Weibo
+      link: https://www.weibo.com/
+      avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png
+      descr: 中国最大社交分享平台
+    - name: Twitter
+      link: https://twitter.com/
+      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
+      descr: 社交分享平台
+    - name: 优质节点
+      link: https://v2cross.com/archives/1884
+      avatar: https://v2cross.com/wp-content/uploads/2020/05/cropped-logov2cross200x200-1.png
+      descr: 优质免费节点每天测速更新2022(6小时更新一次)
+    - name: AI 工具集
+      link: https://ai-bot.cn/
+      avatar: https://ai-bot.cn/ai-bot-logo-vector.svg
+      descr: AI工具集导航 | 500+ AI工具导航大全,国内外AI工具集合网站
+    - name: keynav
+      link: https://www.semicomplete.com/projects/keynav/
+      avatar: https://s1.ax1x.com/2023/06/19/pC3NjSO.png
+      descr: 离开鼠标,纯键盘操作
+    - name: 在线编辑图片(iloveimg)
+      link: https://www.iloveimg.com/zh-cn
+      avatar: https://www.iloveimg.com/img/iloveimg.svg
+      descr: 可批量编辑图片 的所有工具
+    - name: 路过图床
+      link: https://imgse.com/star_dream
+      avatar: https://s1.ax1x.com/2022/11/28/zUThkt.png
+      descr: 路过图床, 免费公共图床, 提供图片上传和图片外链服务, 原图保存, 全球CDN加速.
+    - name: 可视化动画
+      link: http://hepengwei.cn/#/html/visualDesign
+      avatar: http://hepengwei.cn/public/favicon.ico
+      descr: 一个专注于前端视觉效果的集合应用,里面包含各种丰富的css动效、canvas动画等90多个案例
+
