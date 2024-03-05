@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Star Dream
-subtitle: '欢迎来到我的博客'
+title: 零碳协同创新平台
+subtitle: '欢迎您'
 description: '人生，犹如一条颠簸在狂风大浪中的小舟，只有用勇气、力量、才智、毅力去驾驭它，才能到达成功的彼岸。'
 keywords:
-author: Star Dream
+author: 乔东
 language: zh-CN
 timezone: ''
 cover: /source/images/zetong-li-TbHYpbi_Gbc-unsplash.jpg
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://stardreamandfeng.github.io
+url: https://yqingcheng.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -105,4 +105,6 @@ theme: butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/yqingcheng/yqingcheng.github.io.git
+  branch: gh-pages
