@@ -5,12 +5,12 @@
 # Site
 title: 零碳协同创新平台
 subtitle: '欢迎您'
-description: '人生，犹如一条颠簸在狂风大浪中的小舟，只有用勇气、力量、才智、毅力去驾驭它，才能到达成功的彼岸。'
+description: '一站式全生命周期零碳解决方案 iCarbon 平台。'
 keywords:
-author: 乔东
+author: 小零
 language: zh-CN
 timezone: ''
-cover: /source/images/zetong-li-TbHYpbi_Gbc-unsplash.jpg
+cover: https://sungrow-local.oss-cn-beijing.aliyuncs.com/upload/默认头像_1652412516927.png
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'

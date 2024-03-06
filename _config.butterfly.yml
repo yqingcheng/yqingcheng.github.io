@@ -3,7 +3,7 @@
 # --------------------------------------
 
 nav:
-  logo: 
+  logo: https://sungrow-local.oss-cn-beijing.aliyuncs.com/upload/默认头像_1652412516927.png
   display_title: true
   fixed: false # fixed navigation bar
 
@@ -12,12 +12,13 @@ menu:
   主页: / || fas fa-home
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
-  清单||fas fa-list:
-      音乐: /music/ || fas fa-music
-      视频: /video/ || fas fa-video
-      链接: /link/ || fas fa-link
-      图床: /img-storage/ || fas fa-images
-      源码: /code/ || fas fa-file-code
+#  清单||fas fa-list:
+#      音乐: /music/ || fas fa-music
+#      视频: /video/ || fas fa-video
+#      链接: /link/ || fas fa-link
+#      图床: /img-storage/ || fas fa-images
+#      源码: /code/ || fas fa-file-code
+  链接: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
 
 # Code Blocks (代码相关)
@@ -34,18 +35,18 @@ code_word_wrap: false
 # formal:
 #   icon: link || the description || color
 social:
-  fab fa-github: https://github.com/starDreamAndFeng || Github || '#24292e'
-  fas fa-envelope: mailto:2435556127@qq.com || Email || '#4a7dbe'
+  fab fa-github: https://github.com/yqingcheng || Github || '#24292e'
+  fas fa-envelope: mailto:1281406021@qq.com || Email || '#4a7dbe'
 
 # Image (图片设置)
 # --------------------------------------
 
 # Favicon（网站图标）
-favicon: ./images/icon.png
+favicon: https://sungrow-local.oss-cn-beijing.aliyuncs.com/upload/默认头像_1652412516927.png
 
 # Avatar (头像)
 avatar:
-  img: ./images/avatar.jpg
+  img: https://sungrow-local.oss-cn-beijing.aliyuncs.com/upload/默认头像_1652412516927.png
   effect: false
 
 # Disable all banner image
@@ -220,7 +221,7 @@ aside:
   hide: false
   button: true
   mobile: true # display on mobile
-  position: right # left or right
+  position: left # left or right
   display:
     archive: true
     tag: true

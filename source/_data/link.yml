@@ -1,65 +1,132 @@
-- class_name: 友情链接
-  class_desc: 一些大佬的技术博客
+- class_name: 公司内部网址
+  class_desc: 内部管理网站
   link_list:
-    - name: Hexo
-      link: https://hexo.io/zh-tw/
-      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
-      descr: 快速、简单且强大的网志框架
-    - name: DreamCollector
-      link: https://blog.pzai.cloud/
-      avatar: https://s1.ax1x.com/2023/06/19/pC3YkfU.png
-      descr: 一些技术相关的文章
-    - name: 阮一峰的网络日志
-      link: https://www.ruanyifeng.com/blog/
-      avatar: https://wangbase.com/blogimg/asset/202107/bg2021072117.png
-      descr: 这里记录每周值得分享的科技内容，周五发布。
-    - name: 百里飞洋
-      link: https://blog.meta-code.top/
-      avatar: https://plugin.tianqistatic.com/static/images/tianqibig/b1.png
-      descr: 这里是百里飞洋(BarryFlynn)的个人博客网站主页,这里有学习的笔记,有生活的乐趣
+    - name: OA
+      link: http://192.168.0.9/wui/index.html#/
+      avatar: http://teamwork.icarbonlink.com/kaptcha/8a71231d-f5b6-4426-9dcb-c429bd819132.png
+      descr: 公司OA
+    - name: 阳光E起学
+      link: https://edu.sungrowpower.com/
+      avatar: http://teamwork.icarbonlink.com/kaptcha/1b8809e8-bdb7-42e4-a818-df52804818c7.jpg
+      descr: 阳光E起学
+    - name: HR
+      link: http://192.168.0.145/psp/HR92PRD/EMPLOYEE/HRMS/h/?tab=DEFAULT
+      avatar: http://teamwork.icarbonlink.com/kaptcha/c20ae08e-6e41-42d5-b9de-6ba968be4269.jpg
+      descr: HR系统
+    - name: 专利管理系统
+      link: http://10.0.0.76/Login.aspx
+      avatar: http://teamwork.icarbonlink.com/kaptcha/d7b3152a-0d3f-4edd-97f0-cb89d8160c9b.png
+      descr: 查看公司专利
+    - name: 群辉文件管理平台
+      link: http://synology.icarbonlink.com/
+      avatar: http://teamwork.icarbonlink.com/kaptcha/e6844d35-87c9-466f-80fa-9d70c7c10bfd.jpg
+      descr: 公司文件管理平台
 
-
-- class_name: 学习资源
-  class_desc: 记录了一些学习路线、资源等网站
+- class_name: 项目管理工具
+  class_desc: 需求池及PRD请访问wiki、交互视效设计文档请访问蓝湖、任务及缺陷bug请访问禅道
   link_list:
-    - name: HackWay技术学习路线
-      link: https://hackway.org/
-      avatar: https://s1.ax1x.com/2023/06/19/pC3d3yF.png
-      descr: HackWay为程序员自学计算机专业、编程语言提供循序渐进的学习路线、资源以及交流社区
-    - name: Go 语言中国
-      link: https://gopl-zh.github.io/
-      avatar: https://golang-china.github.io/logo.png
-      descr: Go语言圣经(中文版)
-    - name: Docker&Kubernetes小记
-      link: https://www.bilibili.com/read/cv21266100
-      avatar: https://s1.ax1x.com/2023/06/19/pC3d4l8.png
-      descr: 对 Docker、Docker Compose、Kubernetes 这些技术有一个基本的了解 
-    - name: CS-Note
-      link: http://www.cyc2018.xyz/
-      avatar: https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/githubio/LogoMakr_0zpEzN.png
-      descr: 算法、计算机基础、数据库、Java、系统设计、面向对象和编码实践等
-    - name: JavaGuide
-      link: https://javaguide.cn/
-      avatar: https://javaguide.cn/logo.png
-      descr: 「Java学习 + 面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide!
-    - name: 沉默王二技术博客
-      link: https://tobebetterjavaer.com/
-      avatar: https://cdn.tobebetterjavaer.com/tobebetterjavaer/images/logo-02.png
-      descr: 沉默王二BB:这是一份通俗易懂、风趣幽默的Java学习指南,内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java,就认准二哥的Java进阶之路
+    - name: wiki
+      link: http://confluence.icarbonlink.com
+      avatar: http://teamwork.icarbonlink.com/kaptcha/928703ca-8782-41a2-97ce-4f0b40713b3c.jpg
+      descr: wiki默认账号/密码：姓名拼音全称/sungrow@2021 （请大家第一次系统后修改个人密码！！！）
+    - name: 蓝湖
+      link: https://lanhuapp.com/url/yZBi8
+      avatar: http://teamwork.icarbonlink.com/kaptcha/ce0bae16-c9d4-4684-a71e-21964ee7751f.jpg
+      descr: 交互、视效效果图
+    - name: 禅道
+      link: http://zentao.icarbonlink.com/zentao/my/
+      avatar: http://teamwork.icarbonlink.com/kaptcha/4f628425-94b0-4b52-810b-1fe0b5f0d680.png
+      descr: 禅道默认账号/密码：个人oa账号名称/sungrow@2023 （请大家第一次系统后修改个人密码！！！）
+    - name: 共享资料及工具
+      link: http://10.5.2.13/share/
+      avatar: http://teamwork.icarbonlink.com/kaptcha/c0897c30-2009-416a-a67c-828fcdc6af32.png
+      descr: 请在个人本地文件夹里输入：\\10.5.2.13\共享资料
 
-- class_name: 英语学习
-  class_desc: 记录英语学习的相关网站,提高英语能力
+- class_name: 内部开发工具
+  class_desc: 内部使用工具分享
   link_list:
-    - name: 在线英语听力室
-      link: http://www.tingroom.com/
-      avatar: http://img.yywz123.com/tingroom/templets/images/top-logo.gif
-      descr: 英语听力,免费英语,在线英语,英语学习,英语口语,voa,英语听力下载,英语四级,英语六级,在线学英语,英语辅导,少儿英语,英语单词,新概念英语,英语学习网站,英语自学
-    - name: DeepL 翻译
-      link: https://www.deepl.com/translator
-      avatar: https://static.deepl.com/img/logo/DeepL_Logo_darkBlue_v2.svg
-      descr: DeepL翻译:全世界最准确的翻译
+    - name: Gitlab
+      link: http://gitlab.icarbonlink.com
+      avatar: http://teamwork.icarbonlink.com/kaptcha/25a54785-ab6d-4360-a087-698d10011da9.png
+      descr: 默认账户：个人oa账号 ；默认账号密码：sungrow@2021 （请大家第一次登录后修改个人密码！！！）
+    - name: Yapi
+      link: http://10.0.4.13:5000/
+      avatar: http://teamwork.icarbonlink.com/kaptcha/633e6bdb-114b-438e-9eb8-0a05c8541629.jpg
+      descr: api文档管理系统
+    - name: 持续构建平台
+      link: http://devops.icarbonlink.com//isystem/user
+      avatar: http://teamwork.icarbonlink.com/kaptcha/4d9e7c3d-b88e-467c-9efb-01de385eae9d.jpg
+      descr: 部署
+    - name: K8s
+      link: http://192.168.180.37:30880/login
+      avatar: http://teamwork.icarbonlink.com/kaptcha/e97bca5a-3cee-4bbd-b86b-37866ca3e857.jpg
+      descr: 集群管理后台
+    - name: grafana
+      link: http://10.5.2.15:3000/
+      avatar: http://teamwork.icarbonlink.com/kaptcha/747bc398-afe9-41da-8bc1-bf3733f87b20.jpg
+      descr: 监控平台-图形化展示平台
+    - name: prometheus
+      link: http://10.5.2.15:9090/
+      avatar: http://teamwork.icarbonlink.com/kaptcha/6c8db7a4-8d6b-4077-b8e6-3519e1ebc605.jpg
+      descr: 监控平台-后台管理平台
+    - name: MeterSphere持续测试平台
+      link: http://meterspheretest.icarbonlink.com:30315/
+      avatar: http://teamwork.icarbonlink.com/kaptcha/ab0d8c96-8d10-42ca-8f9f-e51e18c0ee6a.jpg
+      descr: 持续测试平台（接口测试、测试用例）
+    - name: iCarbon GPT
+      link: http://10.5.2.49:3001/chatGTP/
+      avatar: http://teamwork.icarbonlink.com/kaptcha/af6f611c-8fdf-45d7-8503-fcab8379c5a8.jpg
+      descr: chatGLM
 
-- class_name: 网站
+- class_name: Portal
+  class_desc: 阳光慧碳SaaS平台产品首页
+  link_list:
+    - name: Portal（测试环境）
+      link: http://10.5.2.49:3001/
+      avatar: http://teamwork.icarbonlink.com/kaptcha/0a2ab584-fc22-4024-ab61-777d7a66ceec.jpg
+      descr: 阳光慧碳SaaS平台产品首页——测试环境
+    - name: Portal（正式环境）
+      link: https://portal.icarbon.com
+      avatar: http://teamwork.icarbonlink.com/kaptcha/897641c6-0014-4f6e-8f9e-9eb915fbbe3b.jpg
+      descr: 阳光慧碳SaaS平台产品首页
+
+- class_name: 阳光慧碳平台（SaaS）
+  class_desc: 阳光慧碳SaaS平台产品首页
+  link_list:
+    - name: Portal（测试环境）
+      link: http://10.5.2.49:3001/
+      avatar: http://teamwork.icarbonlink.com/kaptcha/0a2ab584-fc22-4024-ab61-777d7a66ceec.jpg
+      descr: 阳光慧碳SaaS平台产品首页——测试环境
+    - name: Portal（正式环境）
+      link: https://portal.icarbon.com
+      avatar: http://teamwork.icarbonlink.com/kaptcha/897641c6-0014-4f6e-8f9e-9eb915fbbe3b.jpg
+      descr: 阳光慧碳SaaS平台产品首页
+
+- class_name: 运营平台
+  class_desc: 阳光慧碳SaaS平台产品首页
+  link_list:
+    - name: Portal（测试环境）
+      link: http://10.5.2.49:3001/
+      avatar: http://teamwork.icarbonlink.com/kaptcha/0a2ab584-fc22-4024-ab61-777d7a66ceec.jpg
+      descr: 阳光慧碳SaaS平台产品首页——测试环境
+    - name: Portal（正式环境）
+      link: https://portal.icarbon.com
+      avatar: http://teamwork.icarbonlink.com/kaptcha/897641c6-0014-4f6e-8f9e-9eb915fbbe3b.jpg
+      descr: 阳光慧碳SaaS平台产品首页
+
+- class_name: 项目系统
+  class_desc: 阳光慧碳SaaS平台产品首页
+  link_list:
+    - name: Portal（测试环境）
+      link: http://10.5.2.49:3001/
+      avatar: http://teamwork.icarbonlink.com/kaptcha/0a2ab584-fc22-4024-ab61-777d7a66ceec.jpg
+      descr: 阳光慧碳SaaS平台产品首页——测试环境
+    - name: Portal（正式环境）
+      link: https://portal.icarbon.com
+      avatar: http://teamwork.icarbonlink.com/kaptcha/897641c6-0014-4f6e-8f9e-9eb915fbbe3b.jpg
+      descr: 阳光慧碳SaaS平台产品首页
+
+- class_name: 学习网站
   class_desc: 值得推荐的网站
   link_list:
     - name: Youtube
@@ -99,3 +166,64 @@
       avatar: http://hepengwei.cn/public/favicon.ico
       descr: 一个专注于前端视觉效果的集合应用,里面包含各种丰富的css动效、canvas动画等90多个案例
 
+- class_name: PPT资源
+  class_desc: 阳光慧碳SaaS平台产品首页
+  link_list:
+    - name: Portal（测试环境）
+      link: http://10.5.2.49:3001/
+      avatar: http://teamwork.icarbonlink.com/kaptcha/0a2ab584-fc22-4024-ab61-777d7a66ceec.jpg
+      descr: 阳光慧碳SaaS平台产品首页——测试环境
+    - name: Portal（正式环境）
+      link: https://portal.icarbon.com
+      avatar: http://teamwork.icarbonlink.com/kaptcha/897641c6-0014-4f6e-8f9e-9eb915fbbe3b.jpg
+      descr: 阳光慧碳SaaS平台产品首页
+
+- class_name: 平面素材
+  class_desc: 阳光慧碳SaaS平台产品首页
+  link_list:
+    - name: Portal（测试环境）
+      link: http://10.5.2.49:3001/
+      avatar: http://teamwork.icarbonlink.com/kaptcha/0a2ab584-fc22-4024-ab61-777d7a66ceec.jpg
+      descr: 阳光慧碳SaaS平台产品首页——测试环境
+    - name: Portal（正式环境）
+      link: https://portal.icarbon.com
+      avatar: http://teamwork.icarbonlink.com/kaptcha/897641c6-0014-4f6e-8f9e-9eb915fbbe3b.jpg
+      descr: 阳光慧碳SaaS平台产品首页
+
+
+- class_name: UI资源
+  class_desc: 阳光慧碳SaaS平台产品首页
+  link_list:
+    - name: Portal（测试环境）
+      link: http://10.5.2.49:3001/
+      avatar: http://teamwork.icarbonlink.com/kaptcha/0a2ab584-fc22-4024-ab61-777d7a66ceec.jpg
+      descr: 阳光慧碳SaaS平台产品首页——测试环境
+    - name: Portal（正式环境）
+      link: https://portal.icarbon.com
+      avatar: http://teamwork.icarbonlink.com/kaptcha/897641c6-0014-4f6e-8f9e-9eb915fbbe3b.jpg
+      descr: 阳光慧碳SaaS平台产品首页
+
+
+- class_name: 在线工具
+  class_desc: 阳光慧碳SaaS平台产品首页
+  link_list:
+    - name: Portal（测试环境）
+      link: http://10.5.2.49:3001/
+      avatar: http://teamwork.icarbonlink.com/kaptcha/0a2ab584-fc22-4024-ab61-777d7a66ceec.jpg
+      descr: 阳光慧碳SaaS平台产品首页——测试环境
+    - name: Portal（正式环境）
+      link: https://portal.icarbon.com
+      avatar: http://teamwork.icarbonlink.com/kaptcha/897641c6-0014-4f6e-8f9e-9eb915fbbe3b.jpg
+      descr: 阳光慧碳SaaS平台产品首页
+
+- class_name: 设计规范
+  class_desc: 阳光慧碳SaaS平台产品首页
+  link_list:
+    - name: Portal（测试环境）
+      link: http://10.5.2.49:3001/
+      avatar: http://teamwork.icarbonlink.com/kaptcha/0a2ab584-fc22-4024-ab61-777d7a66ceec.jpg
+      descr: 阳光慧碳SaaS平台产品首页——测试环境
+    - name: Portal（正式环境）
+      link: https://portal.icarbon.com
+      avatar: http://teamwork.icarbonlink.com/kaptcha/897641c6-0014-4f6e-8f9e-9eb915fbbe3b.jpg
+      descr: 阳光慧碳SaaS平台产品首页
