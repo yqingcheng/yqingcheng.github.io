@@ -235,7 +235,7 @@ aside:
       link: https://github.com/StarDreamAndFeng
   card_announcement:
     enable: true
-    content: 暂时没有公告
+    content: 2024年3月6日版本发布计划：Saas平台：1.综能检测 2.碳盘查 运营平台：1.设备接入
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
